@@ -73,3 +73,4 @@ Do not use the knowledge for unauthorized or illegal activities.
 
 
 
+wasted
