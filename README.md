@@ -61,4 +61,4 @@ IT Security Enthusiasts
 This material is for educational and ethical hacking training purposes only.
 Do not use the knowledge for unauthorized or illegal activities.
 
-
+wasted 
