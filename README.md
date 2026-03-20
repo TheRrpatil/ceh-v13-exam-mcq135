@@ -56,9 +56,3 @@ Cybersecurity Students
 SOC Analysts (Freshers)
 VAPT Beginners
 IT Security Enthusiasts
-
-⚠ Disclaimer
-This material is for educational and ethical hacking training purposes only.
-Do not use the knowledge for unauthorized or illegal activities.
-
-wasted 
