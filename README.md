@@ -49,10 +49,3 @@ Attempt questions without seeing answers
 Review explanations
 Identify weak domains
 Revisit CEH study material accordingly
-
-📌 Who Can Use This?
-CEH Aspirants
-Cybersecurity Students
-SOC Analysts (Freshers)
-VAPT Beginners
-IT Security Enthusiasts
