@@ -43,9 +43,3 @@ Cryptography (RSA, AES, PKI, Hashing)
 Ethical Hacking Phases
 MITRE ATT&CK Framework
 
-🚀 How to Use
-Download the PDF
-Attempt questions without seeing answers
-Review explanations
-Identify weak domains
-Revisit CEH study material accordingly
